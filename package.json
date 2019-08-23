@@ -1,0 +1,26 @@
+{
+    "name": "Hello World",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./Hello World.js",
+    "author": {
+        "name": "Nuree",
+        "email": "cnr0724@gmail.com"
+    },
+    "keywords": [],
+    "licenses": "none",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/Hello World.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/Hello World/issues"
+    },
+    "dependencies": {
+        "express": "^4.16.4",
+        "mysql": "^2.16.0"
+    }
+}
